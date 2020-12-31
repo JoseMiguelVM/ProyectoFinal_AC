@@ -1,0 +1,12 @@
+/*Hoja de estilos*/
+body{
+    background-image: url("https://cdn.wallpapersafari.com/97/82/3wHVjt.jpg");
+}
+#entorno {
+	display: block;
+	margin: 0 auto;
+}
+
+#fondo {
+	opacity: 0.3;
+}
